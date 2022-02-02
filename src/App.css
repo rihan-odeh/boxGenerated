@@ -1,6 +1,4 @@
-.App {
-  text-align: center;
-}
+
 
 .App-logo {
   height: 40vmin;
@@ -35,4 +33,16 @@
   to {
     transform: rotate(360deg);
   }
+}
+.App{
+  text-align: left;
+  background-color: #e2fa92;
+  align-items: left;
+  justify-content: left;
+}
+.div{
+  background-color: #e2fa92;
+  text-align: left;
+  align-items: left;
+  justify-content: left;
 }
